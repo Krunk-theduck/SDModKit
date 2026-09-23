@@ -2,6 +2,6 @@
     "id":  "sdmodkit",
     "name":  "SDModKit",
     "author":  "Krunk",
-    "version":  "0.3.0",
+    "version":  "1.0.0",
     "description":  "Shared library for Krunk's mods."
 }
